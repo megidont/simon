@@ -1,0 +1,10 @@
+{
+	"name": "simon",
+	"version": "1.0.0",
+	"description": "User data straw.",
+	"main": "bot.js",
+	"author": "Megidon't#0413",
+	"dependencies": {
+		"discord.js": "^12.0.0"
+	}
+}
